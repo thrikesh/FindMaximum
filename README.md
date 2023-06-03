@@ -40,6 +40,7 @@ def max_marks(list1):
 ![output](./img/max_marks1.jpg) 
 ## Output:
 i)	# To find the maximum of marks using the list method sort.
+
 <br>![output](./pe2.png)
 ii)	# To find the maximum marks using the list method max().
 <br>![output](./pe2.png)
